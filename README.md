@@ -46,19 +46,9 @@
 <br />
 ---
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> </p>
 
-  <img align="left" alt="Amit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Amit's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit14-08-1999&show_icons=true&locale=en" alt="amit14-08-1999" /></p>
 
 [website]: https://profile-amit-ghosh.000webhostapp.com/
 [instagram]: https://www.instagram.com/_______amit________ok/
