@@ -39,7 +39,7 @@
 <br />
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Amit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
@@ -51,7 +51,7 @@
 
 <img align="left" alt="Amit's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
-</details>
+</details> -->
 
 [website]: https://profile-amit-ghosh.000webhostapp.com/
 [instagram]: https://www.instagram.com/_______amit________ok/
