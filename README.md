@@ -49,8 +49,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit14-08-1999&exclude_repo=github-readme-stats,amit14-08-1999.github.io)](https://github.com/amit14-08-1999/github-readme-stats)
 
-[![Amit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/amit14-08-1999/github-readme-stats)
-
 
 
 [website]: https://profile-amit-ghosh.000webhostapp.com/
