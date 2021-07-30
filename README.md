@@ -44,9 +44,10 @@
 
 <br />
 <br />
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit14-08-1999&show_icons=true&locale=en" alt="amit14-08-1999" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit14-08-1999&show_icons=true&locale=en" alt="amit14-08-1999" /></p>
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit14-08-1999&exclude_repo=github-readme-stats,amit14-08-1999.github.io)](https://github.com/amit14-08-1999/github-readme-stats)
 
 
