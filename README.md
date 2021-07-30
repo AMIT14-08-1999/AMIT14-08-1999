@@ -1,4 +1,4 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Amit Ghosh  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I speak 3 languages ( English,Hindi And my mother tongue BENGALI )
 
 
 ### Talk with me, I am kinda awesome:
