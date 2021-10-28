@@ -51,6 +51,5 @@
 
 
 [website]: https://profile-amit-ghosh.000webhostapp.com/
-[instagram]: https://www.instagram.com/__amit_ghosh__/
 [linkedin]: https://www.linkedin.com/in/amit-ghosh-4626b21b1/
 [portfolio]: https://profile-amit-ghosh.000webhostapp.com/
