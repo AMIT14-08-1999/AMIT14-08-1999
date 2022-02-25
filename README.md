@@ -49,4 +49,3 @@
 
 [website]: https://profile-amit-ghosh.000webhostapp.com/
 [linkedin]: https://www.linkedin.com/in/amit-ghosh-4626b21b1/
-[portfolio]: https://profile-amit-ghosh.000webhostapp.com/
